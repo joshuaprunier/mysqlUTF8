@@ -1,5 +1,5 @@
 # mysqlUTF8
-[![Build Status](https://travis-ci.org/deiwin/picasso.svg?branch=master)](https://travis-ci.org/joshuaprunier/mysqlUTF8) [![Coverage](http://gocover.io/_badge/github.com/joshuaprunier/mysqlUTF8)](http://gocover.io/github.com/joshuaprunier/mysqlUTF8) [![GoDoc](https://godoc.org/github.com/joshuaprunier/mysqlUTF8?status.svg)](https://godoc.org/github.com/joshuaprunier/mysqlUTF8) [![license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/joshuaprunier/mysqlUTF8/master/LICENSE)
+[![Build Status](https://travis-ci.org/joshuaprunier/mysqlUTF8.svg?branch=master)](https://travis-ci.org/joshuaprunier/mysqlUTF8) [![Coverage](http://gocover.io/_badge/github.com/joshuaprunier/mysqlUTF8)](http://gocover.io/github.com/joshuaprunier/mysqlUTF8) [![GoDoc](https://godoc.org/github.com/joshuaprunier/mysqlUTF8?status.svg)](https://godoc.org/github.com/joshuaprunier/mysqlUTF8) [![license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/joshuaprunier/mysqlUTF8/master/LICENSE)
 
 mysqlUTF8 is a small library for handling MySQL UTF8 filename encoding. Database and table names with special characters are encoded on disk as detailed in the [MySQL documentation](http://dev.mysql.com/doc/en/identifier-mapping.html).
 
