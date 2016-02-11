@@ -48,7 +48,7 @@ func TestNeedsEncoding(t *testing.T) {
 		got := NeedsEncoding(s.in)
 
 		if got != s.want {
-			t.Errorf("NeedsEncoding(%q) == %q, want %q", s.in, got, s.want)
+			t.Errorf("NeedsEncoding(%q) == %t, want %t", s.in, got, s.want)
 		}
 	}
 }
